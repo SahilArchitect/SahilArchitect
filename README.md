@@ -1,53 +1,102 @@
-# # Sahil Bhatti // Systems Architect
+# Sahil Bhatti
 
-> **The Mandate:** Optimize for top 0.0001% output. Logic > Motivation. Speed > Outcome.
+**Python Backend Engineer | IIT Jammu M.Tech Data Science | FastAPI | PostgreSQL | SQLAlchemy**
 
----
+I build backend systems and data-focused software projects using Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, Linux, and pytest.
 
-### ### CURRENT OPERATION: FERROUS CORE LABS
-I am architecting the infrastructure for the next era of industrial autonomy.
-* **The Core**: High-concurrency AI inference layers.
-* **The Engine**: Python, FastAPI, Redis, and Celery.
-* **The Protocol**: Digital Nomad. Asynchronous by design. 100% Remote.
+My current goal is simple: become strong enough to build reliable production-grade backend systems and clear serious software engineering interviews.
+
+No fluff. Just code, projects, DSA, debugging, and consistent improvement.
 
 ---
 
-### ### SYSTEM R&D (2022 - 2026)
-While the industry chased "culture," I mastered the physics of distributed systems.
-* **M.Tech**: Data Science @ Indian Institute of Technology Jammu (2022).
-* **Stealth Phase**: 3.4 years of deep-level optimization and architectural research.
+## Current Work
+
+I am currently focused on:
+
+* Python backend development
+* FastAPI-based REST APIs
+* PostgreSQL schema design
+* SQLAlchemy ORM
+* Pydantic validation
+* pytest-based testing
+* Linux-based automation
+* Data structures and algorithms
+* Data quality and ML evaluation pipelines
 
 ---
 
-### ### THE TECHNICAL MATRIX
-| Component | Implementation |
-| :--- | :--- |
-| **Logic Layer** | Python, FastAPI |
-| **State/Cache** | Redis |
-| **Concurrency** | Celery, RabbitMQ |
-| **Infrastructure** | Docker, Linux, Git |
+## Main Projects
+
+### FastAPI + PostgreSQL Backend
+
+A backend project focused on clean API design and database-backed application development.
+
+Key features:
+
+* CRUD APIs
+* PostgreSQL database
+* SQLAlchemy ORM
+* Pydantic request/response validation
+* Pagination and filtering
+* Structured error handling
+* Reproducible setup documentation
+
+### Python/C++ System-Test Automation Framework
+
+A Linux-based automation project for testing low-level C/C++ modules.
+
+Key features:
+
+* Python CLI test runner
+* C/C++ test modules
+* Structured logs
+* Pass/fail reports
+* pytest regression tests
+* Failure triage documentation
+
+### Data Quality and ML Evaluation Pipeline
+
+A Python + SQL project for validating datasets and evaluating ML outputs.
+
+Key features:
+
+* Data validation checks
+* SQL schema design
+* ML evaluation metrics
+* CSV/JSON reports
+* Reproducible pipeline runs
 
 ---
 
-### ### SYSTEM FLOW
-I build for zero latency. Every microsecond is a bottleneck.
+## Tech Stack
 
-
-
----
-
-### ### THE EMPIRE BLUEPRINT (20-Year Roadmap)
-I build for Vertical Sovereignty. My systems bridge the gap between raw atoms and orbital infrastructure.
-1. **Entity A**: Autonomous Urban Mining (Computer Vision + Robotics).
-2. **Entity B**: Precision Vacuum Manufacturing.
-3. **Entity C**: Orbital Assembly and Construct.
+**Languages:** Python, C, C++
+**Backend:** FastAPI, REST APIs, Pydantic
+**Database:** PostgreSQL, SQLAlchemy, SQL
+**Testing:** pytest
+**Tools:** Docker, Linux, Git
+**Data/ML:** pandas, scikit-learn, evaluation metrics
 
 ---
 
-### ### STATUS LOG
-* 🟢 **Available for**: High-leverage technical partnerships and AI backend engineering.
-* 🔴 **Unavailable for**: Synchronous meetings, "culture fit" interviews, and slow code.
+## Education
+
+**M.Tech Data Science**
+Indian Institute of Technology Jammu
+
+**B.Tech Computer Science and Engineering**
+Guru Nanak Dev University
 
 ---
 
-> "Most people build for the user. I build for the system."
+## Open To
+
+* Software Engineer
+* Backend Engineer
+* Python Developer
+* SDE-1
+* Associate Software Engineer
+* Software Engineer I
+
+I am actively looking for roles where I can work on backend systems, APIs, databases, automation, and data/AI infrastructure.
